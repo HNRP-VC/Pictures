@@ -2,8 +2,8 @@
 
 <div align="center">
 
-  <img src="logo.png" alt="Logo" height="150" style="margin: 0 15px;">
-  <img src="banner.png" alt="Banner" height="150" style="margin: 0 15px;">
+  <img src="logo.png" alt="Logo" height="150">
+  <img src="banner.png" alt="Banner" height="150">
 
 </div>
 
@@ -13,17 +13,24 @@
 
 <div align="center">
 
-  <img src="inhaber.png" alt="Inhaber" width="120" style="border-radius: 50%; margin: 10px;">
-  <img src="manager.png" alt="Manager" width="120" style="border-radius: 50%; margin: 10px;">
-  <img src="direktor.png" alt="Direktor" width="120" style="border-radius: 50%; margin: 10px;">
+<table>
+  <tr>
+    <td align="center">
+      <img src="inhaber.png" width="120"><br>
+      <strong>Inhaber</strong>
+    </td>
+    <td align="center">
+      <img src="manager.png" width="120"><br>
+      <strong>Manager</strong>
+    </td>
+    <td align="center">
+      <img src="direktor.png" width="120"><br>
+      <strong>Direktor</strong>
+    </td>
+  </tr>
+</table>
 
 </div>
-
-<p align="center">
-  <strong>Inhaber</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Manager</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Direktor</strong>
-</p>
 
 ---
 
@@ -31,15 +38,20 @@
 
 <div align="center">
 
-  <img src="teamleitung.png" alt="Teamleitung" width="110" style="border-radius: 50%; margin: 10px;">
-  <img src="supervisor.png" alt="Supervisor" width="110" style="border-radius: 50%; margin: 10px;">
+<table>
+  <tr>
+    <td align="center">
+      <img src="teamleitung.png" width="110"><br>
+      <strong>Teamleitung</strong>
+    </td>
+    <td align="center">
+      <img src="supervisor.png" width="110"><br>
+      <strong>Supervisor</strong>
+    </td>
+  </tr>
+</table>
 
 </div>
-
-<p align="center">
-  <strong>Teamleitung</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Supervisor</strong>
-</p>
 
 ---
 
@@ -47,16 +59,23 @@
 
 <div align="center">
 
-  <img src="admin.png" alt="Admin" width="110" style="border-radius: 50%; margin: 10px;">
-  <img src="moderator.png" alt="Moderator" width="110" style="border-radius: 50%; margin: 10px;">
-  <img src="supporter.png" alt="Supporter" width="110" style="border-radius: 50%; margin: 10px;">
+<table>
+  <tr>
+    <td align="center">
+      <img src="admin.png" width="110"><br>
+      <strong>Admin</strong>
+    </td>
+    <td align="center">
+      <img src="moderator.png" width="110"><br>
+      <strong>Moderator</strong>
+    </td>
+    <td align="center">
+      <img src="supporter.png" width="110"><br>
+      <strong>Supporter</strong>
+    </td>
+  </tr>
+</table>
 
 </div>
-
-<p align="center">
-  <strong>Admin</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Moderator</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Supporter</strong>
-</p>
 
 ---
